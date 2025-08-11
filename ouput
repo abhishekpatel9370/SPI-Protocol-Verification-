@@ -1,0 +1,124 @@
+[DRV] : RESET DONE
+-----------------------------------------
+[GEN] : DIN=1152
+[DRV] : DATA SENT TO DAC : 1152
+[MON] : DATA SENT : 1152
+[SCO] : DRV : 1152 MON : 1152
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DIN=2179
+[DRV] : DATA SENT TO DAC : 2179
+[MON] : DATA SENT : 2179
+[SCO] : DRV : 2179 MON : 2179
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DIN=1591
+[DRV] : DATA SENT TO DAC : 1591
+[MON] : DATA SENT : 1591
+[SCO] : DRV : 1591 MON : 1591
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DIN=71
+[DRV] : DATA SENT TO DAC : 71
+[MON] : DATA SENT : 71
+[SCO] : DRV : 71 MON : 71
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DIN=3651
+[DRV] : DATA SENT TO DAC : 3651
+[MON] : DATA SENT : 3651
+[SCO] : DRV : 3651 MON : 3651
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DIN=2379
+[DRV] : DATA SENT TO DAC : 2379
+[MON] : DATA SENT : 2379
+[SCO] : DRV : 2379 MON : 2379
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DIN=515
+[DRV] : DATA SENT TO DAC : 515
+[MON] : DATA SENT : 515
+[SCO] : DRV : 515 MON : 515
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DIN=1017
+[DRV] : DATA SENT TO DAC : 1017
+[MON] : DATA SENT : 1017
+[SCO] : DRV : 1017 MON : 1017
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DIN=1810
+[DRV] : DATA SENT TO DAC : 1810
+[MON] : DATA SENT : 1810
+[SCO] : DRV : 1810 MON : 1810
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DIN=1211
+[DRV] : DATA SENT TO DAC : 1211
+[MON] : DATA SENT : 1211
+[SCO] : DRV : 1211 MON : 1211
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DIN=2656
+[DRV] : DATA SENT TO DAC : 2656
+[MON] : DATA SENT : 2656
+[SCO] : DRV : 2656 MON : 2656
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DIN=1151
+[DRV] : DATA SENT TO DAC : 1151
+[MON] : DATA SENT : 1151
+[SCO] : DRV : 1151 MON : 1151
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DIN=2943
+[DRV] : DATA SENT TO DAC : 2943
+[MON] : DATA SENT : 2943
+[SCO] : DRV : 2943 MON : 2943
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DIN=2528
+[DRV] : DATA SENT TO DAC : 2528
+[MON] : DATA SENT : 2528
+[SCO] : DRV : 2528 MON : 2528
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DIN=439
+[DRV] : DATA SENT TO DAC : 439
+[MON] : DATA SENT : 439
+[SCO] : DRV : 439 MON : 439
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DIN=3560
+[DRV] : DATA SENT TO DAC : 3560
+[MON] : DATA SENT : 3560
+[SCO] : DRV : 3560 MON : 3560
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DIN=3375
+[DRV] : DATA SENT TO DAC : 3375
+[MON] : DATA SENT : 3375
+[SCO] : DRV : 3375 MON : 3375
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DIN=1826
+[DRV] : DATA SENT TO DAC : 1826
+[MON] : DATA SENT : 1826
+[SCO] : DRV : 1826 MON : 1826
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DIN=3140
+[DRV] : DATA SENT TO DAC : 3140
+[MON] : DATA SENT : 3140
+[SCO] : DRV : 3140 MON : 3140
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DIN=4056
+[DRV] : DATA SENT TO DAC : 4056
+[MON] : DATA SENT : 4056
+[SCO] : DRV : 4056 MON : 4056
+[SCO] : DATA MATCHED
+-----------------------------------------
+$finish called from file "testbench.sv", line 189.
+$finish at simulation time               140770
